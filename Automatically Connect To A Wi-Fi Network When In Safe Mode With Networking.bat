@@ -212,7 +212,7 @@ GOTO SCRIPTEND
 
 REG.exe EXPORT "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" "%SYSTEMROOT%\Temp\Winlogon.reg" /Y >NUL 2>&1
 FOR /F "USEBACKQ TOKENS=2 DELIMS=^=" %%G IN (`FIND.exe /I """Shell""=" "%SYSTEMROOT%\Temp\Winlogon.reg"`) DO (SET SHLVAL3=%%G)
-IF %SHLVAL3%=="explorer.exe" (GOTO PROMPTCRED) ELSE (GOTO SHELLDATA)
+IF %SHLVAL3%=="explorer.exe" (GOTO REGCHANGE) ELSE (GOTO SHELLDATA)
 
 :: OK, so the data in Shell differs from either "explorer.exe" or
 :: "explorer.exe, wfautcon.bat". Let's see what you'd like to do next.
