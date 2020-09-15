@@ -10,4 +10,4 @@ Not to mention troubleshooting hardware or driver problems. I can't change the h
 ## What does this batch script do?
 It just makes another batch script and changes a registry value to make the script run on startup, regardless if you're in Safe Mode, Safe Mode with Networking, regular mode, whatever.
 ## How do I use it?
-Run it once to install the "hack" (the script and the registry value change), run it again to revert everything as it was (delete the script and revert back the registry value change). 
+Run it once to install the "hack" (the script and the registry value change), run it again to revert everything as it was (delete the script and revert back the registry value change).
