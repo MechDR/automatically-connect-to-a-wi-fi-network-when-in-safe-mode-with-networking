@@ -6,7 +6,7 @@ Well... if you haven't done much remote support assistance, yes, you really can'
 
 There are a lot of people out there that offer remote IT assistance/services and in many cases, like cleaning malware or viruses, you have to do (almost) everything while in Safe Mode... well, Safe Mode with Networking if you're working remotely. This is not a problem if the PC/laptop is using using a wired internet connection (LAN), but portable devices, such as laptops, are more and more common office tools and some small businessess don't even bother wiring their office with a LAN network. They just buy those Wi-Fi USB dongles, some Wi-Fi router with 3 or 4 antennnas and poof, problem solved.
 
-Not to mention troubleshooting hardware or driver problems. I can't change the hardware remotely, but you can at least pinpoint the problem if you can run the PC/laptop in Safe Mode.
+Not to mention troubleshooting hardware or driver problems. You can't change the hardware remotely, but you can at least pinpoint the problem if you can run the PC/laptop in Safe Mode.
 ## What does this batch script do?
 It just makes another batch script and changes a registry value to make the script run on startup, regardless if you're in Safe Mode, Safe Mode with Networking, regular mode, whatever.
 ## How do I use it?
