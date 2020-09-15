@@ -203,7 +203,7 @@ GOTO SCRIPTEND
 ) ELSE (GOTO REGCHECK3)
 
 :: This is a check if the data in Shell is something other than
-:: "expplorer.exe" or "explorer.exe, wfautcon.bat". If it is, ask to save
+:: "explorer.exe" or "explorer.exe, wfautcon.bat". If it is, ask to save
 :: the value as a .reg file for importing later on, after the script is ran
 :: for a second time to delete "wfautcon.bat" and restore the default data
 :: "explorer.exe" in Shell in the Winlogon key.
