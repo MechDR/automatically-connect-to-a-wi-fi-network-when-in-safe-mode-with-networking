@@ -3,7 +3,7 @@
 TITLE Automatically connect to a Wi-Fi network when in Safe Mode With Networking
 ECHO ^+---------------------------------------------------------------------^+
 ECHO ^|          Automatically connect to a Wi-Fi network when in           ^|
-ECHO ^|                      Safe Mode With Networking                      ^|
+ECHO ^|                      Safe Mode with Networking                      ^|
 ECHO ^|                                V1.0                                 ^|
 ECHO ^+---------------------------------------------------------------------^+
 ECHO ^| This script is supposed to circumvent a ^"bug^" that Microsoft        ^|
