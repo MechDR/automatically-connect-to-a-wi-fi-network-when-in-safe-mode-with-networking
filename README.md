@@ -14,4 +14,4 @@ Run it once to install the "hack" (the script and the registry value change), ru
 
 License: WTFPL v3.1
 
-<img align="left" width="100" height="100" src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png">
+<img align="left" src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png">
