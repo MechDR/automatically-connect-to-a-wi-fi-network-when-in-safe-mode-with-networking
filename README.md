@@ -11,3 +11,7 @@ Not to mention troubleshooting hardware or driver problems. I can't change the h
 It just makes another batch script and changes a registry value to make the script run on startup, regardless if you're in Safe Mode, Safe Mode with Networking, regular mode, whatever.
 ## How do I use it?
 Run it once to install the "hack" (the script and the registry value change), run it again to revert everything as it was (delete the script and revert back the registry value change).
+
+License: WTFPL v3.1
+
+<img align="left" width="100" height="100" src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png">
